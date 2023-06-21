@@ -1,5 +1,8 @@
 ## Sistema React
 
+![img](./public/xandao.png)
+
+
 Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenvolvimento web, ministrada pelo professor Francisco Alexandre Araujo Rocha. O projeto consiste em um CRUD (Create, Read, Update, Delete) de alunos e estudantes.
 
 
