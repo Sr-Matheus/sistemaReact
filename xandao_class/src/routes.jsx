@@ -18,8 +18,6 @@ const RoutesApp = () =>
                     <Route path="/alunos" element={ <Student></Student> } ></Route>
                     <Route path="/professores" element={ <Teacher></Teacher> } ></Route>
                 </Routes>
-
-                
             </BrowserRouter>
         </>
     );
