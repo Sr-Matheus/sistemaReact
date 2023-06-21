@@ -18,6 +18,8 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 - React
 - HTML
 - CSS
+- JavaScript
+- Firebase
 
 ## Pré-requisitos
 
@@ -28,7 +30,7 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 
 1. Faça o clone deste repositório para o seu ambiente local.
 2. Navegue até a pasta raiz do projeto.
-3. Abra o terminal e execute o seguinte comando para instalar as dependências:
+3. Abra o terminal e execute os seguintes comandos para instalar as dependências:
 
 ```bash
   npm install 
