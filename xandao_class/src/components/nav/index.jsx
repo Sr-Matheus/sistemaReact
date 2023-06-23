@@ -20,17 +20,18 @@ const MyNavBar = () =>
                             </a>
                         </li>
                         <li>
-                            <a href="/alunos" className="nav-link">
-                            <img src={StudentIcon} alt="Student" className="icon" />
-                            Alunos
-                            </a>
-                        </li>
-                        <li>
                             <a href="/professores" className="nav-link">
                             <img src={TeacherIcon} alt="Teacher" className="icon" />
                             Professores
                             </a>
                         </li>
+                        <li>
+                            <a href="/alunos" className="nav-link">
+                            <img src={StudentIcon} alt="Student" className="icon" />
+                            Alunos
+                            </a>
+                        </li>
+                        
                     </ul>
                 </nav>
             </div>

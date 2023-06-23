@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import MyNavBar from "./components/nav";
 import Home from "./pages/home";
 import Student from "./pages/student";
+import StudentAdd from "./pages/studentAdd";
 import Teacher from "./pages/teacher";
 
 
@@ -16,6 +17,7 @@ const RoutesApp = () =>
                 <Routes>
                     <Route path="/" element={ <Home></Home> } ></Route>
                     <Route path="/alunos" element={ <Student></Student> } ></Route>
+                    <Route path="/alunos/add" element={ <StudentAdd></StudentAdd> } ></Route>
                     <Route path="/professores" element={ <Teacher></Teacher> } ></Route>
                 </Routes>
             </BrowserRouter>
