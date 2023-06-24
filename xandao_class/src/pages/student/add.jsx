@@ -41,27 +41,28 @@ const StudentAdd = () =>
                     
                         <CardContent className='card-content'>
 
-                        <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                            <DriveFileRenameOutlineIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                            <TextField id="input-with-sx" label="Nome" variant="standard" />
-                        </Box>
-                        <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                            <BadgeIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                            <TextField id="input-with-sx" label="CPF" variant="standard" />
-                        </Box>
-                        <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                            <CakeIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                            <TextField id="input-with-sx" label="Idade" variant="standard" />
-                        </Box>
-                        <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                            <AutoStoriesIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                            <TextField id="input-with-sx" label="Serie" variant="standard" />
-                        </Box>
-                        <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                            <PlaceIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                            <TextField id="input-with-sx" label="Endereço" variant="standard" />
-                        </Box>                            
+                            <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
+                                <DriveFileRenameOutlineIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                                <TextField id="input-with-sx" label="Nome" variant="standard" margin="dense" />
+                            </Box>
+                            <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
+                                <BadgeIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                                <TextField id="input-with-sx" label="CPF" variant="standard" margin="dense" />
+                            </Box>
+                            <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
+                                <CakeIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                                <TextField id="input-with-sx" label="Idade" variant="standard" margin="dense" type="number"/>
+                            </Box>
+                            <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
+                                <AutoStoriesIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                                <TextField id="input-with-sx" label="Serie" variant="standard" margin="dense"/>
+                            </Box>
+                            <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
+                                <PlaceIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                                <TextField id="input-with-sx" label="Endereço" variant="standard" margin="dense" />
+                            </Box>                            
                         </CardContent>
+
                             <CardActions className='card-actions'>
                                 <Button href='/alunos' variant="outlined" >Cancelar</Button>
                                 <Button variant="contained">Cadastrar</Button>

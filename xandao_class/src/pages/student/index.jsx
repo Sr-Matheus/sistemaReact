@@ -10,6 +10,7 @@ import { useNavigate } from 'react-router-dom';
 const Student = () =>
 {
     const navigate = useNavigate();
+    
 
     const handleClick = () => {
         navigate('/alunos/add');
