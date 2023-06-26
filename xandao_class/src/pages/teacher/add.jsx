@@ -14,36 +14,36 @@ import Typography from '@mui/material/Typography';
 import Paper from '@mui/material/Paper';
 import TextField from '@mui/material/TextField';
 import BadgeIcon from '@mui/icons-material/Badge';
-import CakeIcon from '@mui/icons-material/Cake';
+import WorkspacePremiumIcon from '@mui/icons-material/WorkspacePremium';
 import AutoStoriesIcon from '@mui/icons-material/AutoStories';
-import PlaceIcon from '@mui/icons-material/Place';
+import PaidIcon from '@mui/icons-material/Paid';
 
 // const bull = (<Box component="span" sx={{ display: 'flex', mx: '2px', transform: 'scale(0.8)' }}>•</Box>);
 
 export default function TeacherAdd () {
     const [nome, setNome] = useState('');
     const [cpf, setCpf] = useState('');
-    const [idade, setIdade] = useState('');
+    const [especializacao, setEspecializacao] = useState('');
     const [materia, setMateria] = useState('');
-    const [endereco, setEndereco] = useState('');
+    const [preco, setPreco] = useState('');
 
     async function registerUser(e) {
         e.preventDefault();
 
         try {
-            const docRef = await addDoc(collection(db, 'aluno'), {
+            const docRef = await addDoc(collection(db, 'professor'), {
                 nome: nome,
                 cpf: cpf,
-                idade: idade,
+                especializacao: especializacao,
                 materia: materia,
-                endereco: endereco,
+                preco: preco,
             });
 
             setNome('');
             setCpf('');
-            setIdade('');
+            setEspecializacao('');
             setMateria('');
-            setEndereco('');
+            setPreco('');
         } catch (error) {
             console.log(error);
         }
@@ -70,16 +70,16 @@ export default function TeacherAdd () {
                       <TextField id="input-with-sx" label="CPF" variant="standard" margin="dense" value={cpf} onChange={(e) => setCpf(e.target.value)} />
                   </Box>
                   <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                      <CakeIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                      <TextField id="input-with-sx" label="Idade" variant="standard" margin="dense" type="number" value={idade} onChange={(e) => setIdade(e.target.value)} />
+                      <WorkspacePremiumIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                      <TextField id="input-with-sx" label="Especilização" variant="standard" margin="dense" value={especializacao} onChange={(e) => setEspecializacao(e.target.value)} />
                   </Box>
                   <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
                       <AutoStoriesIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
                       <TextField id="input-with-sx" label="Materia" variant="standard" margin="dense" value={materia} onChange={(e) => setMateria(e.target.value)} />
                   </Box>
                   <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
-                      <PlaceIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                      <TextField id="input-with-sx" label="Endereço" variant="standard" margin="dense" value={endereco} onChange={(e) => setEndereco(e.target.value)} />
+                      <PaidIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
+                      <TextField id="input-with-sx" label="Preço" variant="standard" margin="dense" value={preco} onChange={(e) => setPreco(e.target.value)} />
                   </Box>
                 </CardContent>
                 
