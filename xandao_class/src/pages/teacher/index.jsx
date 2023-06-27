@@ -31,9 +31,9 @@ export default function Teacher () {
             id: doc.id,
             nome: doc.data().nome,
             cpf: doc.data().cpf,
+            especializacao: doc.data().especializacao,
             materia: doc.data().materia,
-            endereco: doc.data().endereco,
-            idade: doc.data().idade,
+            preco: doc.data().preco,
             });
         });
         setUsers(lista);
@@ -72,27 +72,27 @@ export default function Teacher () {
 
                     <TableHead>
                         <TableRow>
-                        <TableCell>Nome</TableCell>
-                        <TableCell align="right">Idade</TableCell>
-                        <TableCell align="right">Matéria</TableCell>
-                        <TableCell align="right">Ações</TableCell>
+                        <TableCell align="center">Nome</TableCell>
+                        <TableCell align="center">CPF</TableCell>
+                        <TableCell align="center">Especialização</TableCell>
+                        <TableCell align="center">Matéria</TableCell>
+                        <TableCell align="center">Ações</TableCell>
                         </TableRow>
                     </TableHead>
 
                     <TableBody>
                         {users.map((item) => (
                         <TableRow key={item.id}>
-                            <TableCell component="th" scope="row">
-                            {item.nome}
-                            </TableCell>
-                            <TableCell align="right">{item.idade}</TableCell>
-                            <TableCell align="right">{item.materia}</TableCell>
-                            <TableCell align="right">
-                            <Button variant="contained" color="error" onClick={() => handleDelete(item.id)}>
-                                Deletar
-                            </Button>
+                            <TableCell align="center">{item.nome}</TableCell>
+                            <TableCell align="center">{item.cpf}</TableCell>
+                            <TableCell align="center">{item.especializacao}</TableCell>
+                            <TableCell align="center">{item.materia}</TableCell>
+                            <TableCell align="center">
                             <Button variant="contained" color="success" onClick={() => handleEdit(item.id)} >
                                 Editar
+                            </Button>
+                            <Button variant="contained" color="error" onClick={() => handleDelete(item.id)}>
+                                Deletar
                             </Button>
                             </TableCell>
                         </TableRow>
