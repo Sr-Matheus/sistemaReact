@@ -44,6 +44,9 @@ export default function TeacherAdd () {
             setEspecializacao('');
             setMateria('');
             setPreco('');
+
+            alert('Dados Cadastrados')
+            window.location.href = '/professores';
         } catch (error) {
             console.log(error);
         }

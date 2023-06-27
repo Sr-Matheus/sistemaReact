@@ -66,6 +66,7 @@ export default function TeacherEdit() {
       })
       .then(()=>{
         alert('Dados Atualizados')
+        window.location.href = '/professores';
       })
 
     } catch (error) {
