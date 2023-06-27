@@ -75,9 +75,10 @@ const MyUser = () => {
           <TableHead>
             <TableRow>
               <TableCell>Nome</TableCell>
-              <TableCell align="right">Idade</TableCell>
-              <TableCell align="right">Série</TableCell>
-              <TableCell align="right">Ações</TableCell>
+              <TableCell align="center">CPF</TableCell>
+              <TableCell align="center">Idade</TableCell>
+              <TableCell align="center">Série</TableCell>
+              <TableCell align="center">Ações</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -86,9 +87,10 @@ const MyUser = () => {
                 <TableCell component="th" scope="row">
                   {item.nome}
                 </TableCell>
-                <TableCell align="right">{item.idade}</TableCell>
-                <TableCell align="right">{item.serie}</TableCell>
-                <TableCell align="right">
+                <TableCell align="center">{item.cpf}</TableCell>
+                <TableCell align="center">{item.idade} Anos</TableCell>
+                <TableCell align="center">{item.serie}° Série</TableCell>
+                <TableCell align="center">
                   <Button variant="contained" color="error" onClick={() => handleDelete(item.id)}>
                     Deletar
                   </Button>

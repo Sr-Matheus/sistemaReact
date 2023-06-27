@@ -73,7 +73,7 @@ const StudentAdd = () => {
                                     </Box>
                                     <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
                                         <AutoStoriesIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                                        <TextField id="input-with-sx" label="Serie" variant="standard" margin="dense" value={serie} onChange={(e) => setSerie(e.target.value)} />
+                                        <TextField id="input-with-sx" label="Serie" variant="standard" margin="dense" type="number" value={serie} onChange={(e) => setSerie(e.target.value)} />
                                     </Box>
                                     <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
                                         <PlaceIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />

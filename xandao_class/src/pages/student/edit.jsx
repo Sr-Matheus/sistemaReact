@@ -119,6 +119,7 @@ const StudentEdit = () => {
                     label="Serie"
                     variant="standard"
                     margin="dense"
+                    type="number"
                     value={serie}
                     onChange={(e) => setSerie(e.target.value)}
                   />
