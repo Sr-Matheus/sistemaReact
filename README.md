@@ -17,7 +17,10 @@ O projeto foi desenvolvido por:
 
 
 [<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
-- Contribuição: Criação das páginas relacionadas ao cadastro dos Professores
+
+#### Contribuição:
+- Criação do cadastro de professores
+- Criação da atualização de professores
 
 
 ## Funcionalidades
@@ -76,6 +79,8 @@ Sinta-se à vontade para explorar e interagir com nosso sistema!
 This project is one of the activities for the Special Topics in Web Development course, taught by Professor Francisco Alexandre Araujo Rocha. The project consists of a CRUD (Create, Read, Update, Delete) system for students.
 
 **Note**: The logo used in this project is a parody of the Xing company logo and is used for educational and demonstration purposes only. There is no affiliation or direct association with the Xing company.
+
+## Contributors
 
 ## Features
 
