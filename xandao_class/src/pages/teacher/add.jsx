@@ -79,7 +79,7 @@ export default function TeacherAdd () {
                   </Box>
                   <Box sx={{ display: 'flex', alignItems: 'flex-end' }}>
                       <PaidIcon sx={{ color: 'action.active', mr: 1, my: 0.5 }} />
-                      <TextField id="input-with-sx" label="Preço" variant="standard" margin="dense" value={preco} onChange={(e) => setPreco(e.target.value)} />
+                      <TextField id="input-with-sx" label="Preço" variant="standard" margin="dense" type="number" value={preco} onChange={(e) => setPreco(e.target.value)} />
                   </Box>
                 </CardContent>
                 

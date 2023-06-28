@@ -72,7 +72,7 @@ export default function Teacher () {
 
                     <TableHead>
                         <TableRow>
-                        <TableCell align="center">Nome</TableCell>
+                        <TableCell>Nome</TableCell>
                         <TableCell align="center">CPF</TableCell>
                         <TableCell align="center">Especialização</TableCell>
                         <TableCell align="center">Matéria</TableCell>
@@ -83,7 +83,7 @@ export default function Teacher () {
                     <TableBody>
                         {users.map((item) => (
                         <TableRow key={item.id}>
-                            <TableCell align="center">{item.nome}</TableCell>
+                            <TableCell>{item.nome}</TableCell>
                             <TableCell align="center">{item.cpf}</TableCell>
                             <TableCell align="center">{item.especializacao}</TableCell>
                             <TableCell align="center">{item.materia}</TableCell>
