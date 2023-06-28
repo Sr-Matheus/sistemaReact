@@ -1,0 +1,19 @@
+{
+  "contributors": [
+    {
+      "name": "Janiel Carneiro",
+      "githubUsername": "janielcarneiro",
+      "contributions": [
+        "Criação da página home e navbar"
+      ]
+    },
+    {
+      "name": "Jordan Ferreira",
+      "githubUsername": "jordanferreiraa",
+      "contributions": [
+        "Criação das páginas relacionadas ao cadastro dos Professores"
+      ]
+    }
+    
+  ]
+}
