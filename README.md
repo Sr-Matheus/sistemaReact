@@ -8,46 +8,6 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 **Nota**: O logo utilizado neste projeto é uma paródia do logo da empresa Xing e foi usado apenas para fins educacionais e de demonstração. Não há nenhuma afiliação ou associação direta com a empresa Xing.
 
 
-
-## Contribuidores
-
-[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br />
-
-#### Contribuição:
-- Criação da página home
-- Criação da Navbar
-
-
-[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br />
-
-#### Contribuição:
-- Criação da página de listagem de alunos
-- Criação da página cadastro de alunos
-
-
-[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
-
-#### Contribuição:
-- Criação das páginas de listagem, cadastro e edição de professores
-- Conexão com o banco de dados nas páginas de professores
-
-
-[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br />
-
-#### Contribuição:
-- Criação do Protótipo
-- Criação das rotas
-- Criação das páginas de edição de alunos
-- Conexão com o banco de dados nas páginas de alunos
-
-
-## Funcionalidades
-
-- Cadastro de alunos e professores
-- Listagem de alunos e professores
-- Edição de informações de alunos e professores
-- Exclusão de alunos e professores
-
 ## Tecnologias utilizadas
 
 - React
@@ -83,6 +43,52 @@ Depois que as dependências estiverem instaladas e o projeto estiver em execuç�
 
 [http://localhost:5174/](http://localhost:5174/) em seu navegador.
 
+
+
+
+## Funcionalidades
+
+- Cadastro de alunos e professores
+- Listagem de alunos e professores
+- Edição de informações de alunos e professores
+- Exclusão de alunos e professores
+
+## Contribuidores
+
+[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br />
+
+#### Contribuição:
+- Criação da página home
+- Criação da Navbar
+
+##
+
+[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br />
+
+#### Contribuição:
+- Criação da página de listagem de alunos
+- Criação da página cadastro de alunos
+
+##
+
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
+
+#### Contribuição:
+- Criação das páginas de listagem, cadastro e edição de professores
+- Conexão com o banco de dados nas páginas de professores
+
+##
+
+[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br />
+
+#### Contribuição:
+- Criação do Protótipo
+- Criação das rotas
+- Criação das páginas de edição de alunos
+- Conexão com o banco de dados nas páginas de alunos
+
+##
+
 Sinta-se à vontade para explorar e interagir com nosso sistema!
 
 
@@ -103,46 +109,6 @@ Sinta-se à vontade para explorar e interagir com nosso sistema!
 This project is one of the activities for the Special Topics in Web Development course, taught by Professor Francisco Alexandre Araujo Rocha. The project consists of a CRUD (Create, Read, Update, Delete) system for students.
 
 **Note**: The logo used in this project is a parody of the Xing company logo and is used for educational and demonstration purposes only. There is no affiliation or direct association with the Xing company.
-
-## Contributors
-
-[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br/>
-
-#### Contribution:
-- Creation of the homepage
-- Creation of Navbar
-
-[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br/>
-
-#### Contribution:
-- Creation of student list page
-- Creation of the student registration page
-
-
-
-[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br/>
-
-#### Contribution:
-- Creation of teacher listing, registration and editing pages
-- Database connection on teacher pages
-
-
-[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br/>
-
-#### Contribution:
-
-- Creation of the Prototype
-- Creation of routes
-- Creation of student editing pages
-- Database connection on student pages
-
-## Features
-
-- Student and teacher registration
-- Student and teacher listing
-- Editing student and teacher information
-- Deleting students and teachers
-
 
 ## Technologies Used
 
@@ -178,6 +144,52 @@ Make sure to replace "npm" with "yarn" if you are using Yarn as your package man
 Once the dependencies are installed and the project is running, you can access it at 
 
 [http://localhost:5174/](http://localhost:5174/) in your web browser.
+
+## Features
+
+- Student and teacher registration
+- Student and teacher listing
+- Editing student and teacher information
+- Deleting students and teachers
+
+
+## Contributors
+
+[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br/>
+
+#### Contribution:
+- Creation of the homepage
+- Creation of Navbar
+
+##
+
+[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br/>
+
+#### Contribution:
+- Creation of student list page
+- Creation of the student registration page
+
+##
+
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br/>
+
+#### Contribution:
+- Creation of teacher listing, registration and editing pages
+- Database connection on teacher pages
+
+##
+
+[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br/>
+
+#### Contribution:
+
+- Creation of the Prototype
+- Creation of routes
+- Creation of student editing pages
+- Database connection on student pages
+
+## 
+
 
 Feel free to explore and interact with our React System!
 
