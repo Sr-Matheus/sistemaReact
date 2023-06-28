@@ -10,17 +10,37 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 
 
 ## Contribuidores
-O projeto foi desenvolvido por:
 
 [<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br />
-- Contribuição: Criação da página home e navbar
+
+#### Contribuição:
+- Criação da página home
+- Criação da Navbar
 
 
 [<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
 
 #### Contribuição:
-- Criação do cadastro de professores
-- Criação da atualização de professores
+- Criação das páginas de listagem, cadastro e edição de professores
+- Conexão com o banco de dados nas páginas de professores
+
+
+
+[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br />
+
+#### Contribuição:
+- Criação da página de listagem de alunos
+- Criação da página cadastro de alunos
+
+
+[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br />
+
+#### Contribuição:
+- Criação da Estrutura do Projeto
+- Criação das rotas
+- Criação do Protótipo
+- Criação das páginas de edição de alunos
+- Conexão com o banco de dados nas páginas de alunos
 
 
 ## Funcionalidades
@@ -67,6 +87,8 @@ Depois que as dependências estiverem instaladas e o projeto estiver em execuç�
 
 Sinta-se à vontade para explorar e interagir com nosso sistema!
 
+[![Contributors](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
+
 
 ---
 
@@ -81,6 +103,37 @@ This project is one of the activities for the Special Topics in Web Development 
 **Note**: The logo used in this project is a parody of the Xing company logo and is used for educational and demonstration purposes only. There is no affiliation or direct association with the Xing company.
 
 ## Contributors
+
+[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https: //github.com/janielcarneiro)<br />
+
+#### Contribution:
+- Creation of the homepage
+- Creation of Navbar
+
+
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https: //github.com/jordanferreiraa)<br />
+
+#### Contribution:
+- Creation of teacher listing, registration and editing pages
+- Database connection on teacher pages
+
+
+
+[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>]( https://github.com/jpsantos96)<br />
+
+#### Contribution:
+- Creation of student list page
+- Creation of the student registration page
+
+
+[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>] (https://github.com/Sr-Matheus)<br />
+
+#### Contribution:
+- Creation of the Project Structure
+- Creation of routes
+- Creation of the Prototype
+- Creation of student editing pages
+- Database connection on student pages
 
 ## Features
 
