@@ -18,14 +18,6 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 - Criação da Navbar
 
 
-[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
-
-#### Contribuição:
-- Criação das páginas de listagem, cadastro e edição de professores
-- Conexão com o banco de dados nas páginas de professores
-
-
-
 [<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br />
 
 #### Contribuição:
@@ -33,12 +25,18 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 - Criação da página cadastro de alunos
 
 
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
+
+#### Contribuição:
+- Criação das páginas de listagem, cadastro e edição de professores
+- Conexão com o banco de dados nas páginas de professores
+
+
 [<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br />
 
 #### Contribuição:
-- Criação da Estrutura do Projeto
-- Criação das rotas
 - Criação do Protótipo
+- Criação das rotas
 - Criação das páginas de edição de alunos
 - Conexão com o banco de dados nas páginas de alunos
 
@@ -87,8 +85,12 @@ Depois que as dependências estiverem instaladas e o projeto estiver em execuç�
 
 Sinta-se à vontade para explorar e interagir com nosso sistema!
 
-[![Contributors](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
 
+
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-9.22.2-orange?logo=firebase)](https://firebase.google.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.79.2-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Contribuidores](https://img.shields.io/badge/Contribuidores-4-success?logo=github)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
 
 ---
 
@@ -110,6 +112,13 @@ This project is one of the activities for the Special Topics in Web Development 
 - Creation of the homepage
 - Creation of Navbar
 
+[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br/>
+
+#### Contribution:
+- Creation of student list page
+- Creation of the student registration page
+
+
 
 [<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br/>
 
@@ -118,19 +127,12 @@ This project is one of the activities for the Special Topics in Web Development 
 - Database connection on teacher pages
 
 
-[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br/>
-
-#### Contribution:
-- Creation of student list page
-- Creation of the student registration page
-
-
 [<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br/>
 
 #### Contribution:
-- Creation of the Project Structure
-- Creation of routes
+
 - Creation of the Prototype
+- Creation of routes
 - Creation of student editing pages
 - Database connection on student pages
 
@@ -179,4 +181,10 @@ Once the dependencies are installed and the project is running, you can access i
 
 Feel free to explore and interact with our React System!
 
-[![Contributors](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-9.22.2-orange?logo=firebase)](https://firebase.google.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.79.2-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Contributors](https://img.shields.io/badge/Contribuidores-4-success?logo=github)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
+
+
+
