@@ -12,13 +12,12 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 ## Contribuidores
 O projeto foi desenvolvido por:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section-->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
 [<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br />
+- Contribuição: Criação da página home e navbar
 
-[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Nome do Contribuidor</b></sub>](https://github.com/jordanferreiraa)<br />
 
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br />
+- Contribuição: Criação das páginas relacionadas ao cadastro dos Professores
 
 
 ## Funcionalidades
@@ -123,3 +122,4 @@ Once the dependencies are installed and the project is running, you can access i
 
 Feel free to explore and interact with our React System!
 
+[![Contributors](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
