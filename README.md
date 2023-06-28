@@ -35,8 +35,13 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 3. Abra o terminal e execute os seguintes comandos para instalar as dependências:
 
 ```bash
-  npm install 
-  npm run dev
+cd ./xandao_class/
+```
+```bash
+npm install 
+```
+```bash
+npm run dev
 ```
 
 Certifique-se de substituir "npm" por "yarn" se estiver usando o Yarn como seu gerenciador de pacotes.
@@ -88,8 +93,13 @@ This project is one of the activities for the Special Topics in Web Development 
 3. Open the terminal and execute the following commands to install the dependencies:
 
 ```bash
-  npm install 
-  npm run dev
+cd ./xandao_class/
+```
+```bash
+npm install 
+```
+```bash
+npm run dev
 ```
 
 Make sure to replace "npm" with "yarn" if you are using Yarn as your package manager.
