@@ -13,9 +13,11 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 O projeto foi desenvolvido por:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section-->
-<!-- prettier-ignore -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br />
+
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Nome do Contribuidor</b></sub>](https://github.com/jordanferreiraa)<br />
 
 
 
