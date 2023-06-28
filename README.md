@@ -196,7 +196,7 @@ Feel free to explore and interact with our React System!
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-9.22.2-orange?logo=firebase)](https://firebase.google.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.79.2-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Contributors](https://img.shields.io/badge/Contribuidores-4-success?logo=github)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
+[![Contributors](https://img.shields.io/badge/Contributors-4-success?logo=github)](https://img.shields.io/github/contributors/Sr-Matheus/sistemaReact)
 
 
 
