@@ -104,29 +104,28 @@ This project is one of the activities for the Special Topics in Web Development 
 
 ## Contributors
 
-[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https: //github.com/janielcarneiro)<br />
+[<img src="https://github.com/janielcarneiro.png" width="100px;"/><br /><sub><b>Janiel Carneiro</b></sub>](https://github.com/janielcarneiro)<br/>
 
 #### Contribution:
 - Creation of the homepage
 - Creation of Navbar
 
 
-[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https: //github.com/jordanferreiraa)<br />
+[<img src="https://github.com/jordanferreiraa.png" width="100px;"/><br /><sub><b>Jordan Ferreira</b></sub>](https://github.com/jordanferreiraa)<br/>
 
 #### Contribution:
 - Creation of teacher listing, registration and editing pages
 - Database connection on teacher pages
 
 
-
-[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>]( https://github.com/jpsantos96)<br />
+[<img src="https://github.com/jpsantos96.png" width="100px;"/><br /><sub><b>João Pedro dos Santos</b></sub>](https://github.com/jpsantos96)<br/>
 
 #### Contribution:
 - Creation of student list page
 - Creation of the student registration page
 
 
-[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>] (https://github.com/Sr-Matheus)<br />
+[<img src="https://github.com/Sr-Matheus.png" width="100px;"/><br /><sub><b>Matheus Mesquita Moraes</b></sub>](https://github.com/Sr-Matheus)<br/>
 
 #### Contribution:
 - Creation of the Project Structure
