@@ -8,6 +8,17 @@ Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenv
 **Nota**: O logo utilizado neste projeto é uma paródia do logo da empresa Xing e foi usado apenas para fins educacionais e de demonstração. Não há nenhuma afiliação ou associação direta com a empresa Xing.
 
 
+
+## Contribuidores
+O projeto foi desenvolvido por:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section-->
+<!-- prettier-ignore -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
+
 ## Funcionalidades
 
 - Cadastro de alunos e professores
