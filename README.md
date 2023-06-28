@@ -3,7 +3,7 @@
 ![img](./xandao_class/public/xandao.png)
 
 
-Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenvolvimento web, ministrada pelo professor Francisco Alexandre Araujo Rocha. O projeto consiste em um CRUD (Create, Read, Update, Delete) de alunos e estudantes.
+Esse projeto é uma das atividades da disciplina de Tópicos especiais em desenvolvimento web, ministrada pelo professor [Francisco Alexandre Araujo Rocha](https://github.com/alexandresobral2004/). O projeto consiste em um CRUD (Create, Read, Update, Delete) de alunos e estudantes.
 
 **Nota**: O logo utilizado neste projeto é uma paródia do logo da empresa Xing e foi usado apenas para fins educacionais e de demonstração. Não há nenhuma afiliação ou associação direta com a empresa Xing.
 
@@ -106,7 +106,7 @@ Sinta-se à vontade para explorar e interagir com nosso sistema!
 ![img](./xandao_class/public/xandao.png)
 
 
-This project is one of the activities for the Special Topics in Web Development course, taught by Professor Francisco Alexandre Araujo Rocha. The project consists of a CRUD (Create, Read, Update, Delete) system for students.
+This project is one of the activities for the Special Topics in Web Development course, taught by Professor [Francisco Alexandre Araujo Rocha](https://github.com/alexandresobral2004/). The project consists of a CRUD (Create, Read, Update, Delete) system for students.
 
 **Note**: The logo used in this project is a parody of the Xing company logo and is used for educational and demonstration purposes only. There is no affiliation or direct association with the Xing company.
 
